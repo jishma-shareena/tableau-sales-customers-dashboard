@@ -45,10 +45,10 @@ The dashboards are designed for business decision-makers to quickly interpret ke
 ## 🖼️ Dashboard Previews
 
 ### **Sales Dashboard**
-![Sales Dashboard](images/Sales_Screenshot.png)
+[![Sales Dashboard](images/Sales_Screenshot.png)](https://github.com/jishma-shareena/tableau-sales-customers-dashboard/blob/main/Sales%20Screenshot.PNG)
 
 ### **Customer Dashboard**
-![Customer Dashboard](images/Customer_Screenshot.png)
+[![Customer Dashboard](images/Customer_Screenshot.png)](https://github.com/jishma-shareena/tableau-sales-customers-dashboard/blob/main/Customer%20Screenshot.PNG)
 
 ---
 
