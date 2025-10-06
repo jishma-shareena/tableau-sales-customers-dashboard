@@ -49,6 +49,7 @@ https://github.com/jishma-shareena/tableau-sales-customers-dashboard/blob/main/S
 
 ### **Customer Dashboard**
 https://github.com/jishma-shareena/tableau-sales-customers-dashboard/blob/main/Screenshots/Customer%20Screenshot.PNG
+
 ---
 
 ## 🗂️ Project Structure
